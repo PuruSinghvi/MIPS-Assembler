@@ -1,0 +1,10 @@
+0x012a4020 #checked
+0x02119820 #checked
+0x012a4022 #checked
+0x012a4025 #checked
+0x21280005 #checked
+0x2213000a #checked
+0x35280005 #checked
+0x000b9080 #checked
+0x8e680004 #checked
+0x3c12fffe #checked
